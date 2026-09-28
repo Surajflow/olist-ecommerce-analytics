@@ -41,14 +41,14 @@ olist-ecommerce-analytics/
 ├── Python/
 │   └── analysis.ipynb
 │
-├── Olist_Project/
+├── Olist Project/
 │   ├── Data/
 │   │   └── Cleaned/
 │   │
 │   ├── powerbi/
 │   │   └── Olist_Analytics.pbix
 │   │
-│   └── images/
+│   └── Images/
 │       ├── sales-overview.png
 │       ├── product-analysis.png
 │       ├── customer-analysis.png
@@ -191,7 +191,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Sales Overview](Olist_Project/images/sales-overview.png)
+![Sales Overview](Olist_Project/Images/sales-overview.png)
 
 ---
 
@@ -219,7 +219,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Product Analysis](Olist Project/images/product-analysis.png)
+![Product Analysis](Olist Project/Images/product-analysis.png)
 
 ---
 
@@ -244,7 +244,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Customer Analysis](Olist Project/images/customer-analysis.png)
+![Customer Analysis](Olist Project/Images/customer-analysis.png)
 
 ---
 
