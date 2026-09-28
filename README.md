@@ -219,7 +219,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Product Analysis](Olist_Project/images/product-analysis.png)
+![Product Analysis](Olist Project/images/product-analysis.png)
 
 ---
 
@@ -244,7 +244,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Customer Analysis](Olist_Project/images/customer-analysis.png)
+![Customer Analysis](Olist Project/images/customer-analysis.png)
 
 ---
 
@@ -266,7 +266,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Order & Delivery Analysis](Olist_Project/images/order-delivery-analysis.png)
+![Order & Delivery Analysis](Olist Project/images/order-delivery-analysis.png)
 
 ## Key DAX Measures
 
