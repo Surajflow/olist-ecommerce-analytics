@@ -46,7 +46,7 @@ olist-ecommerce-analytics/
 │   │   └── Cleaned/
 │   │
 │   ├── powerbi/
-│   │   └── Olist_Analytics.pbix
+│   │   
 │   │
 │   └── Images/
 │       ├── sales-overview.png
@@ -342,9 +342,15 @@ These measures allow the dashboard to respond dynamically to filters and date se
 |---|---|
 | `Python/analysis.ipynb` | Python-based data analysis and preparation |
 | `Olist_Project/Data/Cleaned/` | Cleaned analytical datasets |
-| `Olist_Project/powerbi/Olist_Analytics.pbix` | Power BI dashboard |
+| `Olist_Project/powerbi/` | Power BI dashboard files|
 | `Olist_Project/images/` | Dashboard screenshots |
 | `README.md` | Project documentation |
+
+## Power BI Dashboard
+
+The interactive Power BI dashboard was developed as part of this project.
+
+Dashboard previews are available in the `Olist_Project/images/` folder.
 
 ## Data Note
 
