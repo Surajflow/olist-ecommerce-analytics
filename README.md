@@ -46,7 +46,7 @@ olist-ecommerce-analytics/
 │   │   └── Cleaned/
 │   │
 │   ├── powerbi/
-│   │   
+│   │   └── powerbi.txt
 │   │
 │   └── Images/
 │       ├── sales-overview.png
@@ -191,7 +191,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Sales Overview](Olist_Project/Images/sales-overview.png)
+![Sales Overview](Olist%20Project/Images/sales-overview.png)
 
 ---
 
@@ -219,7 +219,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Product Analysis](Olist Project/Images/product-analysis.png)
+![Product Analysis](Olist%20Project/Images/product-analysis.png)
 
 ---
 
@@ -244,7 +244,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Customer Analysis](Olist Project/Images/customer-analysis.png)
+![Customer Analysis](Olist%20Project/Images/customer-analysis.png)
 
 ---
 
@@ -266,7 +266,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Order & Delivery Analysis](Olist Project/images/order-delivery-analysis.png)
+![Order & Delivery Analysis](Olist%20Project/images/order-delivery-analysis.png)
 
 ## Key DAX Measures
 
@@ -342,7 +342,7 @@ These measures allow the dashboard to respond dynamically to filters and date se
 |---|---|
 | `Python/analysis.ipynb` | Python-based data analysis and preparation |
 | `Olist_Project/Data/Cleaned/` | Cleaned analytical datasets |
-| `Olist_Project/powerbi/` | Power BI dashboard files|
+| `Olist_Project/powerbi/powerbi.txt` | Power BI dashboard files|
 | `Olist_Project/images/` | Dashboard screenshots |
 | `README.md` | Project documentation |
 
