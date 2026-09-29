@@ -266,7 +266,7 @@ The dashboard contains four analytical pages.
 
 ### Dashboard Preview
 
-![Order & Delivery Analysis](Olist%20Project/images/order-delivery-analysis.png)
+![Order & Delivery Analysis](Olist%20Project/Images/order-delivery-analysis.png)
 
 ## Key DAX Measures
 
